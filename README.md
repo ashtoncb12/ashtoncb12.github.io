@@ -1,4 +1,4 @@
-# <p align = "center">Ashton Blehm's Project Portfolio </p>
+Ashton Blehm's Project Portfolio
 Hi! I'm Ashton Blehm, an aspiring data analyst / scientist who is currently a 3rd year Georgia Tech Mathematics student. I am extremely passionate in sports analytics and creating effective data visualizations. What follows is some of my projects that I have completed using data from the [sports reference websites](sports-reference.com). 
 <!-- Description <br /> -->
 
