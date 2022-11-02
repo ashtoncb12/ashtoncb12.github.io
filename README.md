@@ -2,6 +2,13 @@
 Hi! I'm Ashton Blehm, an aspiring data analyst / scientist who is currently a 3rd year Georgia Tech Mathematics student. I am extremely passionate in sports analytics and creating effective data visualizations. What follows is some of my projects that I have completed using data from the [sports reference websites](sports-reference.com). 
 <!-- Description <br /> -->
 
+## [Plotting MLB Teams' Histories](https://github.com/ashtoncb12/BaseballStats/tree/main/Wins%20and%20Season%20Result%20by%20Year%20MLB)
+Description: Given any team, this code analyzes a team's wins and result for each season, and plots it on a bar chart. <br /> <br />
+
+![image](https://github.com/ashtoncb12/BaseballStats/blob/main/Wins%20and%20Season%20Result%20by%20Year%20MLB/image.jpg?raw=true)
+
+Objective: Comprehensively demonstrate a team's stretches where they win / lose many years in a row, or have long playoff or title droughts. 
+
 ## [NFL Average Points For vs. Points Against](https://github.com/ashtoncb12/NFLStats/tree/main/Points%20Scored%20vs%20Points%20Allowed%20NFL)
 Description: Given any season, this code creates a graph that plots every team on a 2D plane based on their average points for and average points against. <br /> <br />
 
